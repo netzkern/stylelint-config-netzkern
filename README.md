@@ -7,8 +7,6 @@
 
 To see the rules that this config uses, please read the [config itself](./index.js).
 
-*Note: the config is tested against this example, as such the example contains plenty of CSS syntax, formatting and features.*
-
 ## Installation
 
 ```bash
