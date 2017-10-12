@@ -76,3 +76,7 @@ The config is broadly compatible with [SugarSS](https://github.com/postcss/sugar
   }
 }
 ```
+
+## Tooling
+
+- Visual Studio Code [link](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
